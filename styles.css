@@ -2,16 +2,16 @@ body{
     margin: 0px;
     background-image: linear-gradient( lightgrey, lightpink); 
     width: 100vw;
-    height : 100vh;
+    height : fit-content;
+    align-items: center;
 }
 .heading{
     margin: 0;
     background: url("images/Adoor.jpg");
     align-items: center;
     color:aliceblue;
-    width: 100vw;
+    width: auto;
     height: 343px;
-    align-items:center;
 }
 
 h1{

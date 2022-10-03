@@ -1,8 +1,6 @@
 body{
     margin: 0px;
     background-image: linear-gradient( lightgrey, lightcyan); 
-    width: max-content;
-    height:max-content;
 }
 header{
     margin: 0;

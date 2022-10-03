@@ -4,14 +4,16 @@ body{
     width: 100vw;
     height : 100vh;
 }
-header{
+.heading{
     margin: 0;
     background: url("images/Adoor.jpg");
     align-items: center;
     color:aliceblue;
     width: 100vw;
     height: 343px;
+    text-align: center;
 }
+
 h1{
     position: absolute;
     width: 201px;

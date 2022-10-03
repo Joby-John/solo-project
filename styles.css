@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    background-image: linear-gradient( lightgrey, lightcyan); 
+}
+header{
+    margin: 0;
+    background: url("images/Adoor.jpg");
+    align-items: center;
+    color:aliceblue;
+    width: 720px;
+    height: 343px;
+}
+h1{
+    position: absolute;
+    width: 201px;
+    height: 34px;
+    left: 259px;
+    top: 122px;
+    padding-bottom: 8px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    
+    background-color:lightslategray;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+h3{
+position: absolute;
+width: 400px;
+height: 39px;
+left: 160px;
+top: 177px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 18.72px;
+line-height: 22px;
+text-align: center;
+
+background-color:lightgray;
+color: #FFFFFF;
+border-radius: 10px;
+padding: 5px 2px 10px 2px;
+
+}
+
+.columns{
+    display: flex;
+    justify-content:center;
+    margin: 10px;
+}
+.activity{
+    padding: 20px 10px;
+}
+.activity-img{
+width: 100px;
+height: 99.34px;
+left: 83px;
+top: 114px;
+border-radius: 50%;
+}
+.activities-sec{
+    text-align: center;
+    color: #1D3557;
+}
+
+.guide{
+    display: flex;
+    width: 400px;
+    text-align: center;
+    border-radius: 10%;
+    margin:50px 100px;
+    background: #efefd0;
+    color: #003249;
+    border: 3px solid #e7ecef;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 3px 6px #ccdbdc;
+}
+.avatar{
+    border-radius: 15%;
+    padding: 10px 5px 10px 5px ;
+}

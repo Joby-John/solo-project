@@ -11,7 +11,7 @@ body{
     color:aliceblue;
     width: 100vw;
     height: 343px;
-    text-align: center;
+    align-items:center;
 }
 
 h1{
